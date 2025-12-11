@@ -1,0 +1,159 @@
+/* Thin: 100
+Extra Light: 200
+Light: 300
+Regular/Normal: 400
+Medium: 500
+Semi-Bold: 600
+Bold: 700
+Extra Bold: 800
+Black: 900 */
+
+/*--------- Font Face ---------- */
+
+
+/* Cygre Thin */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+}
+
+/* Cygre Thin Italic */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-ThinIt.woff2") format("woff2");
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* Cygre Light */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Cygre Light Italic */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-LightIt.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Cygre Regular */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Cygre Regular Italic */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-RegularIt.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Cygre Medium */
+@font-face {
+  font-family: "Cygre";
+  src: url("fonts/Cygre/Cygre-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Cygre Medium Italic */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-MediumIt.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Cygre SemiBold */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Cygre SemiBold Italic */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-SemiBoldIt.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* Cygre Bold */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Cygre Bold Italic */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-BoldIt.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Cygre ExtraBold */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Cygre ExtraBold Italic */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-ExtraBoldIt.woff2") format("woff2");
+  font-weight: 800;
+  font-style: italic;
+}
+
+/* Cygre Black */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Cygre Black Italic */
+@font-face {
+  font-family: "Cygre";
+  src: url("Cygre/Cygre-BlackIt.woff2") format("woff2");
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* Milk Cake Font */
+@font-face {
+  font-family: "Milk Cake";
+  src: url("milk_cake/Milk Cake.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* Thin: 100
+Extra Light: 200
+Light: 300
+Regular/Normal: 400
+Medium: 500
+Semi-Bold: 600
+Bold: 700
+Extra Bold: 800
+Black: 900 */

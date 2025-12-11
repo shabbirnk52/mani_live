@@ -1,0 +1,77 @@
+/* 
+Thin: 100
+Extra Light: 200
+Light: 300
+Regular/Normal: 400
+Medium: 500
+Semi-Bold: 600
+Bold: 700
+Extra Bold: 800
+Black: 900 
+*/
+
+/*--------- Font Face ---------- */
+
+
+
+/* BalooBhaijaan Extra Bold */
+@font-face {
+  font-family: "Baloo Bhaijaan 2";
+  src: url("BalooBhaijaan2-ExtraBold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* BalooBhaijaan Semi Bold */
+@font-face {
+  font-family: "Baloo Bhaijaan 2";
+  src: url("BalooBhaijaan2-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* BalooBhaijaan Bold */
+@font-face {
+  font-family: "Baloo Bhaijaan 2";
+  src: url("BalooBhaijaan2-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* BalooBhaijaan Medium */
+@font-face {
+  font-family: "Baloo Bhaijaan 2";
+  src: url("BalooBhaijaan2-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* BalooBhaijaan Regular */
+@font-face {
+  font-family: "Baloo Bhaijaan 2";
+  src: url("BalooBhaijaan2-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* BalooBhaijaan Regular Italic */
+@font-face {
+  font-family: "Baloo Bhaijaan 2";
+  src: url("BalooBhaijaan2-VariableFont_wght.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+/* 
+Thin: 100
+Extra Light: 200
+Light: 300
+Regular/Normal: 400
+Medium: 500
+Semi-Bold: 600
+Bold: 700
+Extra Bold: 800
+Black: 900 
+*/
