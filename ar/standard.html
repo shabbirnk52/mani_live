@@ -459,6 +459,14 @@
 <script type="text/javascript" src="js/main.js"></script> 
 
 <!-- /Javascript -->
-
+<script>
+window.addEventListener('load', function () {
+  const event = new Event('click');
+  const activeTab = document.querySelector('.filter.active, .tab.active');
+  if (activeTab) {
+    activeTab.dispatchEvent(event);
+  }
+});
+</script>
 </body>
 </html>
